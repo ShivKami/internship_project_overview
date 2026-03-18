@@ -58,7 +58,7 @@ I have worked on both the **Flutter frontend** and **backend APIs**, implementin
 
 ## Tools & Workflow
 - **Git** for version control and collaboration  
-- **Docker** for consistent development environments  
+- **Docker** for containerizing backend and database services to ensure consistent development environments   
 
 ---
 
