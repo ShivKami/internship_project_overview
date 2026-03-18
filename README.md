@@ -14,7 +14,9 @@ I have worked on both the **Flutter frontend** and **backend APIs**, implementin
 
 ## Frontend (Flutter)
 
-**Tech used:** Flutter (Dart), REST APIs  
+**Tech used:** 
+- Flutter (Dart)
+- REST APIs  
 
 ### Contributions
 - Developed screens for task creation, editing, deletion, and completion  
@@ -32,14 +34,21 @@ I have worked on both the **Flutter frontend** and **backend APIs**, implementin
 
 ## Backend
 
-**Tech used:** JavaScript, Python, REST APIs  
+**Tech used:** 
+- JavaScript (Node.js)
+- Python
+- PostgreSQL
+- Sequelize (ORM)
+- REST APIs
+- Docker
 
 ### Contributions
 - Built APIs for task creation, update, deletion, and listing  
 - Added task filtering options  
 - Updated database structure for new features  
 - Implemented file upload support  
-- Developed task grouping logic  
+- Developed task grouping logic
+- Used Sequelize ORM for defining models and interacting with PostgreSQL database
 
 ### Improvements
 - Simplified API structure for maintainability  
